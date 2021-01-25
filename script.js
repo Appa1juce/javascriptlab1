@@ -22,7 +22,7 @@ if (detroitGC) {
 Michigan. I am currently ${age} years old and my birthday is on ${birthday}.`);
 }
 
-for (let i = 0; i, lifeEvents.length; i++) {
+for (let i = 0; i < lifeEvents.length; i++) {
   console.log(lifeEvents);
   break;
 }
